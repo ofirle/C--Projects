@@ -1,0 +1,4 @@
+C:\Users\OL\Desktop\B18 Ex05 OronPaz 304812712 OfirLevy 204219711\B18 Ex05 Oron 304812712 Ofir 204219711\obj\Debug\B18 Ex05 Oron 304812712 Ofir 204219711.exe
+C:\Users\OL\Desktop\B18 Ex05 OronPaz 304812712 OfirLevy 204219711\B18 Ex05 Oron 304812712 Ofir 204219711\obj\Debug\B18 Ex05 Oron 304812712 Ofir 204219711.pdb
+C:\Users\OL\Desktop\Draughts Ofir Levy\Draughts Ofir Levy\obj\Debug\B18 Ex05 Oron 304812712 Ofir 204219711.exe
+C:\Users\OL\Desktop\Draughts Ofir Levy\Draughts Ofir Levy\obj\Debug\B18 Ex05 Oron 304812712 Ofir 204219711.pdb
